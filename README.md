@@ -24,6 +24,7 @@ I'm a second-year Computer Science student at Cairo University with a genuine pa
 - 🔭 Currently going deep on **ASP.NET Core, Entity Framework & REST APIs**
 - 🐧 Linux daily driver — comfortable with CLI, Bash, and dev tooling
 - ⚙️ Building solo projects means I also handle deployment — picking up **Docker & DevOps fundamentals**
+- 🏗️ Collaborative Architect — Beyond writing code, I enjoy designing component diagrams and file structures for team projects, ensuring that everyone on the team has a solid foundation to build on.
 - 🔐 Interested in cybersecurity — grinding CTFs on **pwn.college** & **TryHackMe**
 - 🏆 Competed in **ECPC 2024** (Egyptian Collegiate Programming Contest)
 - 💡 Self-learner first — if I don't know it yet, I'll figure it out
