@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a second-year Computer Science student at Cairo University with a genuine passion for building things that work. My interest in coding started the moment I entered college and hasn't slowed down since — I'm consistently learning, whether through coursework, personal projects, or just diving into something new out of curiosity. I'm drawn to back-end development because of the satisfaction of designing and engineering systems that actually click — clean logic, solid architecture, working software. C# and the .NET ecosystem are my current focus, with C++ as a strong foundation underneath.
+I'm a second-year Computer Science student at Cairo University with a genuine passion for building functional systems that work. My interest in coding started the moment I entered college and hasn't slowed down since — I'm consistently learning, whether through coursework, personal projects, or just diving into something new out of curiosity. I'm drawn to back-end development because of the satisfaction of designing and engineering systems that actually click — clean logic, solid architecture, working software. C# and the .NET ecosystem are my current focus, with C++ as a strong foundation underneath.
 
 <details>
 <summary>🔍 More about me</summary>
@@ -61,7 +61,7 @@ I'm a second-year Computer Science student at Cairo University with a genuine pa
 
 ## 🚀 Projects
 
-### 🎮 [Tokyo Games Center](https://github.com/T0-kyo/tokyo-games-center) `In Progress`
+### 🎮 [Tokyo Games Center](https://github.com/T0-kyo/tokyo-games-center) `Complete`
 > A desktop game suite built on a **custom game engine** with a states-based architecture — featuring **13 different Tic-Tac-Toe variants**.  
 > **Stack:** C++ · SFML 3.0
 
