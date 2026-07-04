@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Al-Hussain 👋
+# Hey, I'm Al-Hussain Haitham
 
 **Aspiring Back-End Developer** · Cairo University CS Student · Linux enjoyer 🐧
 
@@ -12,34 +12,31 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a second-year Computer Science student at Cairo University with a genuine passion for building functional systems that work. My interest in coding started the moment I entered college and hasn't slowed down since — I'm consistently learning, whether through coursework, personal projects, or just diving into something new out of curiosity. I'm drawn to back-end development because of the satisfaction of designing and engineering systems that actually click — clean logic, solid architecture, working software. C# and the .NET ecosystem are my current focus, with C++ as a strong foundation underneath.
+I'm a second-year Computer Science student at Cairo University with a genuine passion for building functional systems that work. My interest in coding started the moment I entered college and hasn't slowed down since — I'm consistently learning, whether through coursework, personal projects, or just diving into something new out of curiosity. I'm drawn to back-end development because of the satisfaction of designing and engineering systems that actually click — clean logic, solid architecture, working software. C# and the .NET ecosystem are my current focus, with C++ as a strong foundation I've been building on since day one.
 
 <details>
 <summary>🔍 More about me</summary>
 <br>
 
-- 🎓 CS student @ **Cairo University** (Class of 2028)
-- 🔭 Currently going deep on **ASP.NET Core, Entity Framework & REST APIs**
-- 🐧 Linux daily driver — comfortable with CLI, Bash, and dev tooling
-- ⚙️ Building solo projects means I also handle deployment — picking up **Docker & DevOps fundamentals**
-- 🏗️ Collaborative Architect — Beyond writing code, I enjoy designing component diagrams and file structures for team projects, ensuring that everyone on the team has a solid foundation to build on.
-- 🔐 Interested in cybersecurity — grinding CTFs on **pwn.college** & **TryHackMe**
-- 🏆 Competed in **ECPC 2024** (Egyptian Collegiate Programming Contest)
-- 💡 Self-learner first — if I don't know it yet, I'll figure it out
+- CS student @ **Cairo University** (Class of 2028)
+- Currently going deep on **ASP.NET Core, Entity Framework & REST APIs**
+- Linux daily driver — comfortable with CLI, Bash, and dev tooling
+- I enjoy designing system architecture — component diagrams, UML, file structures — before writing a single line of code
+- Ranked **128th** in the ECPC 2024 Qualification Round
+- Self-learner first — if I don't know it yet, I'll figure it out
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -54,39 +51,38 @@ I'm a second-year Computer Science student at Cairo University with a genuine pa
 **Currently Learning**
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎮 [Tokyo Games Center](https://github.com/T0-kyo/tokyo-games-center) `Complete`
-> A desktop game suite built on a **custom game engine** with a states-based architecture — featuring **13 different Tic-Tac-Toe variants**.  
+### 🎮 [Tokyo Games Center](https://github.com/T0-kyo/tokyo-games-center) `Complete · v1.0.1`
+> A cross-platform desktop game suite featuring **13 Tic-Tac-Toe variants**, built entirely on a **custom states-based game engine** written from scratch.  
+> The engine handles game flow, screen transitions, and rendering independently — with clean separation between logic and UI layers.  
+> Shipped with a gameplay demo video, full documentation, and releases for both Linux and Windows.  
 > **Stack:** C++ · SFML 3.0
 
 ---
 
-### 💼 Sho8lanty — Job Search Web App `In Progress`
-> A full-stack job search platform where users can browse, filter, and apply for jobs.  
-> **Stack:** Python · HTML · CSS
+### 🏦 BitBank — Banking REST API `In Progress`
+> A full banking back-end designed with a layered architecture: Controllers, Services, Models, DTOs, and a Data layer via Entity Framework Core.  
+> Features **13 REST API endpoints** across auth, accounts, and transactions — with JWT authentication, BCrypt password and PIN hashing, atomic database transactions, and real financial business rules (transfer limits, soft deletes, zero-balance enforcement).  
+> Full system design completed — data models, API contracts, and architecture defined before implementation.  
+> **Stack:** C# · ASP.NET Core · Entity Framework Core · SQLite
 
 ---
 
-### 🏦 BitBank — Banking System `In Progress`
-> A banking system covering account management, transactions, and balance tracking — built with clean OOP design.  
-> **Stack:** C#
+### 💰 Masroofy — Personal Finance App `In Progress`
+> A fully offline mobile fintech app for tracking spending and managing budgets.  
+> Designed with MVVM architecture, Repository pattern with interfaces, dynamic daily limit recalculation, pie chart analytics, and local PIN authentication with BCrypt hashing and lockout logic.  
+> Architecture documented with C4 diagrams and PlantUML sequence diagrams across 7 user stories — all before implementation began.  
+> **Stack:** C# · .NET MAUI · SQLite
 
 ---
 
-### 🖼️ Image Processing & Filtering Tool `In Progress`
-> Low-level image filters and processing algorithms (grayscale, edge detection, blur) implemented from scratch — no vision libraries.  
-> **Stack:** C++
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,16 +94,16 @@ I'm a second-year Computer Science student at Cairo University with a genuine pa
 
 ---
 
-## 🏅 Achievements
+## Achievements
 
-- 🥊 **ECPC 2024** — Competed in the Egyptian Collegiate Programming Contest, ranked **149th** in Qualifications nationally
+- 🏆 **ECPC 2024** — Ranked **128th** in the Egyptian Collegiate Programming Contest Qualification Round
 - 🔐 **CTF Grinding** — Active on pwn.college & TryHackMe (self-directed cybersecurity learning)
 
 ---
 
 <div align="center">
 
-*"Don't stop trying you either win or learn."*
+*"Don't stop trying — you either win or you learn."*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=T0-kyo.T0-kyo)
 
