@@ -14,10 +14,12 @@
 
 ## About Me
 
-I'm a second-year Computer Science student at Cairo University with a genuine passion for building functional systems that work. My interest in coding started the moment I entered college and hasn't slowed down since — I'm consistently learning, whether through coursework, personal projects, or just diving into something new out of curiosity. I'm drawn to back-end development because of the satisfaction of designing and engineering systems that actually click — clean logic, solid architecture, working software. C# and the .NET ecosystem are my current focus, with C++ as a strong foundation I've been building on since day one.
+I'm a third-year Computer Science student at Cairo University with a strong passion for backend engineering and building reliable software. I enjoy turning ideas into well-structured systems, with a focus on clean architecture, scalable design, and maintainable code.
+My primary focus is C# and ASP.NET Core, backed by a strong foundation in C++. Alongside backend development, I'm expanding my knowledge of software architecture, databases, cloud technologies, Docker, and Linux to better understand the complete software development lifecycle.
+I enjoy solving challenging problems, continuously learning new technologies, and building projects that strengthen both my technical skills and engineering mindset. My goal is to grow into a backend engineer capable of designing, building, and deploying production-ready applications.
 
 <details>
-<summary>🔍 More about me</summary>
+<summary>More about me</summary>
 <br>
 
 - CS student @ **Cairo University** (Class of 2028)
