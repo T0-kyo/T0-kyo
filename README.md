@@ -68,10 +68,10 @@ I enjoy solving challenging problems, continuously learning new technologies, an
 
 ---
 
-### 🏦 BitBank — Banking REST API `In Progress`
-> A full banking back-end designed with a layered architecture: Controllers, Services, Models, DTOs, and a Data layer via Entity Framework Core.  
+### 🏦 [BitBank](https://github.com/T0-kyo/BitBank) `Complete`
+> A full banking backend-focused project designed with a layered architecture: Controllers, Services, Models, DTOs, and a Data layer via Entity Framework Core.  
 > Features **13 REST API endpoints** across auth, accounts, and transactions — with JWT authentication, BCrypt password and PIN hashing, atomic database transactions, and real financial business rules (transfer limits, soft deletes, zero-balance enforcement).  
-> Full system design completed — data models, API contracts, and architecture defined before implementation.  
+> Full system completed — data models, API contracts, and architecture defined before implementation.  
 > **Stack:** C# · ASP.NET Core · Entity Framework Core · SQLite
 
 ---
