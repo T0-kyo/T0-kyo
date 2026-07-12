@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Al-Hussain Haitham
+# Hey, I'm Al-Hussain Haitham Medhat
 
 **Backend Engineer** · Computer Science Student @ Cairo University · Linux
 
