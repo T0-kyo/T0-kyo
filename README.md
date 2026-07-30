@@ -83,9 +83,9 @@ Alongside backend development, I'm expanding my knowledge of databases, cloud te
 
 <div align="center">
 
-![Al-Hussain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0-kyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Al-Hussain's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T0-kyo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](./profile/top-langs.svg)  
 
 </div>
 
